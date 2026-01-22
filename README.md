@@ -1,3 +1,6 @@
 # assignment-3
 # CUSTOMER TABLE
 ![image alt](https://github.com/Methu-dev/assignment-3/blob/49b6acc726b7920709e0fd58c8e8d46372fe6ed3/customer%20table.png)
+
+# VEHICLES TABLE
+![image all](https://github.com/Methu-dev/assignment-3/blob/022b1136aad8a1f918decd83d3db4b7e2c03eabc/vehicles%20table.png)
