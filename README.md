@@ -13,3 +13,6 @@
 
 # EXIST
 ![image alt](https://github.com/Methu-dev/assignment-3/blob/9d070f99d05f487b5e709ddbf3fd60e659f5b2e3/exist.png)
+
+# WHERE
+![image alt](https://github.com/Methu-dev/assignment-3/blob/422c5aee01397a9bfc3aba20375bcd4f3a8219ab/where.png)
