@@ -10,3 +10,6 @@
 
 # JOIN
 ![image alt](https://github.com/Methu-dev/assignment-3/blob/2d77d9d135df3057294f2739eae0a215cf76f254/join.png)
+
+# EXIST
+![image alt](https://github.com/Methu-dev/assignment-3/blob/9d070f99d05f487b5e709ddbf3fd60e659f5b2e3/exist.png)
