@@ -7,3 +7,6 @@
 
 # BOOKINS TABLE
 ![image alt](https://github.com/Methu-dev/assignment-3/blob/c0cc0e42f518ef974b27d0fbf82100a149bfc2ed/booking%20table.png)
+
+# JOIN
+![image alt](https://github.com/Methu-dev/assignment-3/blob/2d77d9d135df3057294f2739eae0a215cf76f254/join.png)
